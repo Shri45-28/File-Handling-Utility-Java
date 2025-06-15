@@ -15,7 +15,7 @@ MENTOR:-NEELA SANTOSH
 
 Task Description:
 
-#Project Description
+# Project Description
 
 This project is a File Handling Utility developed using Java that enables users to perform common file operations through a simple interface. It supports:
 
@@ -33,7 +33,7 @@ This project is a File Handling Utility developed using Java that enables users 
 
 It uses Java’s java.io and java.nio packages to ensure smooth and reliable file I/O operations across platforms.
 
-#Platforms and Tools Used
+# Platforms and Tools Used
 
    1:- Language: Java (JDK 17)
 
