@@ -57,3 +57,6 @@ It uses Java’s java.io and java.nio packages to ensure smooth and reliable fil
 
   4:-  Lightweight and portable
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c63adafe-b234-47de-97ef-b5907bda97fe)
